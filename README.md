@@ -5,34 +5,38 @@ An interactive geospatial simulator that visualizes district-level **literacy ra
 ---
 
 ## 🌐 Live Demo
-
-👉 **[Launch Interactive Map](https://your-streamlit-or-colab-link.com)**  
-*(Click to explore district-wise metrics and simulate healthcare access based on literacy inputs)*
-
+👉 [**Launch Interactive Map**](https://babhijith.github.io/BABHIJITH-AP-Civic-Atlas-Literacy-Healthcare-Simulation-Tool/)  
+*Click to explore district-wise metrics and simulate healthcare access based on literacy inputs.*
 ---
 
 ## 📊 Features
 
-- 🗺️ **Interactive Folium Map**: Hover over districts to view literacy rates and simulated healthcare scores.
-- 🔄 **Dynamic Simulation**: Adjust parameters to simulate how literacy improvements affect healthcare access.
-- 🧹 **Automated Data Cleaning**: Resolves name mismatches between shapefiles and CSV datasets.
-- 📁 **Modular Codebase**: Easily extendable to include infrastructure, education, or sanitation metrics.
+- 🗺️ **Interactive Folium Map**  
+  Hover over districts to view literacy rates and simulated healthcare scores.
+
+- 🔄 **Dynamic Simulation**  
+  Adjust parameters to simulate how literacy improvements affect healthcare access.
+
+- 🧹 **Automated Data Cleaning**  
+  Resolves name mismatches between shapefiles and CSV datasets.
+
+- 📁 **Modular Codebase**  
+  Easily extendable to include infrastructure, education, or sanitation metrics.
 
 ---
 
 ## 🧠 Motivation
 
 Administrative boundaries and civic metrics often remain siloed. This simulator bridges that gap by:
+
 - Aggregating real-world data from public sources.
 - Cleaning and merging geospatial and tabular datasets.
 - Enabling interactive exploration and simulation of civic outcomes.
 
 ---
 
-🚀 Future Enhancements
-Add real PHC location data from NHM or state portals.
+## 🚀 Future Enhancements
 
-Include infrastructure metrics like road density or school access.
-
-Enable time-series simulation for projected improvements.
-    
+- Add real PHC location data from NHM or state portals.
+- Include infrastructure metrics like road density or school access.
+- Enable time-series simulation for projected improvements.
