@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 District Name,PHC_Count
 Guntur,82
 Anantapur,25
@@ -10,3 +11,17 @@ Vizianagaram,38
 Srikakulam,42
 Kurnool,59
 Chittoor,45
+=======
+District Name,PHC_Count
+Guntur,82
+Anantapur,25
+Prakasam,58
+Krishna,16
+West Godavari,37
+East Godavari,92
+Visakhapatnam,41
+Vizianagaram,38
+Srikakulam,42
+Kurnool,59
+Chittoor,45
+>>>>>>> 28d09adb585d6dea8fdfeb2863c0b65ae33c747f
