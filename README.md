@@ -6,8 +6,10 @@ An interactive geospatial simulator that visualizes district-level **literacy ra
 
 ## 🌐 Live Demo
 
-👉 [**Launch Interactive Map**](https://babhijith.github.io/BABHIJITH-AP-Civic-Atlas-Literacy-Healthcare-Simulation-Tool/)  
-*Click to explore district-wise metrics and simulate healthcare access based on literacy inputs.*
+<a href="https://babhijith.github.io/BABHIJITH-AP-Civic-Atlas-Literacy-Healthcare-Simulation-Tool/" target="_blank" rel="noopener noreferrer">
+  👉 <strong>Launch Interactive Map</strong>
+</a>  
+<em>Click to explore district-wise metrics and simulate healthcare access based on literacy inputs.</em>
 
 ---
 
